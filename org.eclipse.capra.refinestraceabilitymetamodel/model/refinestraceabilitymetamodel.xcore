@@ -1,0 +1,15 @@
+package org.eclipse.capra.refinestraceabilitymetamodel
+
+import org.eclipse.emf.ecore.EObject
+
+class RefinesTraceModel {
+	contains TraceLinks [0..*] item
+}
+
+abstract class TraceLinks {
+	refers EObject [0..*] item
+}
+
+class Refines extends TraceLinks {
+	
+}

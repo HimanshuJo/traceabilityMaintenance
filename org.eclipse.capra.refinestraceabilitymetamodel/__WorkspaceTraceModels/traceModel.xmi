@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ASCII"?>
+<refinestraceabilitymetamodel:RefinesTraceModel xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:refinestraceabilitymetamodel="org.eclipse.capra.refinestraceabilitymetamodel">
+  <item xsi:type="refinestraceabilitymetamodel:Refines">
+    <item href="artifactWrappers.xmi#//@artifacts.0"/>
+    <item href="artifactWrappers.xmi#//@artifacts.1"/>
+  </item>
+  <item xsi:type="refinestraceabilitymetamodel:Refines">
+    <item href="artifactWrappers.xmi#//@artifacts.2"/>
+    <item href="artifactWrappers.xmi#//@artifacts.1"/>
+  </item>
+  <item xsi:type="refinestraceabilitymetamodel:Refines">
+    <item href="artifactWrappers.xmi#//@artifacts.3"/>
+    <item href="artifactWrappers.xmi#//@artifacts.1"/>
+  </item>
+</refinestraceabilitymetamodel:RefinesTraceModel>
